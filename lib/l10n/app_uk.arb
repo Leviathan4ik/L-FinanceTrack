@@ -1,0 +1,91 @@
+{
+  "settingsTitle": "Налаштування",
+  "usernameLabel": "Ім'я користувача",
+  "emailLabel": "Електронна пошта",
+  "saveButton": "Зберегти",
+  "avatarUpload": "Завантажити аватар",
+  "snackbarSaveMessage": "Налаштування збережено",
+  "languageLabel": "Вибір мови",
+  "appTitle": "Трекер фінансів",
+  "balanceLabel": "Баланс",
+  "periodWeek": "Тиждень",
+  "periodMonth": "Місяць",
+  "periodYear": "Рік",
+  "typeAll": "Усі",
+  "typeIncome": "Дохід",
+  "typeExpense": "Витрата",
+  "categoryAll": "Усі категорії",
+  "transactionIncome": "Дохід",
+  "transactionExpense": "Витрата",
+  "categoryPageTitle": "Категорії витрат та доходів",
+  "newCategoryLabel": "Нова категорія",
+  "addCategoryButton": "Додати категорію",
+  "categoryAddedMessage": "Категорію \"{category}\" додано",
+  "@categoryAddedMessage": {
+    "description": "Повідомлення, яке відображається при додаванні категорії",
+    "placeholders": {
+      "category": {
+        "type": "String",
+        "example": "Їжа"
+      }
+    }
+  },
+  "categoryDeletedMessage": "Категорію \"{category}\" видалено",
+  "@categoryDeletedMessage": {
+    "description": "Повідомлення, яке відображається при видаленні категорії",
+    "placeholders": {
+      "category": {
+        "type": "String",
+        "example": "Їжа"
+      }
+    }
+  },
+  "incomePageTitle": "Додати дохід",
+  "incomeAmountLabel": "Сума доходу",
+  "incomeDescriptionLabel": "Опис доходу",
+  "addIncomeButton": "Додати дохід",
+  "incomeAddedMessage": "Дохід успішно додано",
+  "totalIncomeLabel": "Загальний дохід",
+  "expensePageTitle": "Додати витрату",
+  "expenseAmountLabel": "Сума витрати",
+  "expenseDescriptionLabel": "Опис витрати",
+  "expenseCategoryLabel": "Категорія",
+  "addExpenseButton": "Додати витрату",
+  "expenseAddedMessage": "Витрату успішно додано",
+  "expenseDeletedMessage": "Витрату успішно видалено",
+  "totalExpenseLabel": "Загальні витрати",
+  "@expensePageTitle": {
+    "description": "Заголовок сторінки додавання витрат"
+  },
+  "@expenseAmountLabel": {
+    "description": "Поле для введення суми витрати"
+  },
+  "@expenseDescriptionLabel": {
+    "description": "Поле для введення опису витрати"
+  },
+  "@expenseCategoryLabel": {
+    "description": "Поле для вибору категорії витрати"
+  },
+  "@addExpenseButton": {
+    "description": "Кнопка для додавання витрати"
+  },
+  "@expenseAddedMessage": {
+    "description": "Повідомлення при успішному додаванні витрати"
+  },
+  "@expenseDeletedMessage": {
+    "description": "Повідомлення при успішному видаленні витрати"
+  },
+  "@totalExpenseLabel": {
+    "description": "Поле для відображення загальної суми витрат"
+  },
+  "menuHome": "Головна",
+  "menuSettings": "Налаштування",
+  "menuIncome": "Дохід",
+  "menuExpense": "Витрата",
+  "menuCategories": "Категорії витрат",
+  "menuDefaultUsername": "Користувач",
+  "invalidDataMessage": "Будь ласка, введіть коректні дані",
+  "noCategoriesAvailable": "No categories available",
+  "filterByDate": "Filter by Date",
+  "filterByCategory": "Категорії"
+}

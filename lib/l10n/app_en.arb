@@ -1,0 +1,92 @@
+{
+  "settingsTitle": "Settings",
+  "usernameLabel": "Username",
+  "emailLabel": "Email",
+  "saveButton": "Save",
+  "avatarUpload": "Upload Avatar",
+  "snackbarSaveMessage": "Settings saved",
+  "languageLabel": "Language Selection",
+  "appTitle": "Finance Tracker",
+  "balanceLabel": "Balance",
+  "periodWeek": "Week",
+  "periodMonth": "Month",
+  "periodYear": "Year",
+  "typeAll": "All",
+  "typeIncome": "Income",
+  "typeExpense": "Expense",
+  "categoryAll": "All Categories",
+  "transactionIncome": "Income",
+  "transactionExpense": "Expense",
+  "categoryPageTitle": "Expense and Income Categories",
+  "newCategoryLabel": "New Category",
+  "addCategoryButton": "Add Category",
+  "categoryAddedMessage": "Category \"{category}\" added",
+  "@categoryAddedMessage": {
+    "description": "Message displayed when a category is added",
+    "placeholders": {
+      "category": {
+        "type": "String",
+        "example": "Food"
+      }
+    }
+  },
+  "categoryDeletedMessage": "Category \"{category}\" deleted",
+  "@categoryDeletedMessage": {
+    "description": "Message displayed when a category is deleted",
+    "placeholders": {
+      "category": {
+        "type": "String",
+        "example": "Food"
+      }
+    }
+  },
+  "incomePageTitle": "Add Income",
+  "incomeAmountLabel": "Income Amount",
+  "incomeDescriptionLabel": "Income Description",
+  "addIncomeButton": "Add Income",
+  "incomeAddedMessage": "Income added successfully",
+  "totalIncomeLabel": "Общий доход",
+  "expensePageTitle": "Add Expense",
+  "expenseAmountLabel": "Expense Amount",
+  "expenseDescriptionLabel": "Expense Description",
+  "expenseCategoryLabel": "Category",
+  "addExpenseButton": "Add Expense",
+  "expenseAddedMessage": "Expense added successfully",
+  "expenseDeletedMessage": "Expense deleted successfully",
+  "totalExpenseLabel": "Total Expense",
+  "@expensePageTitle": {
+    "description": "Title for the add expense page"
+  },
+  "@expenseAmountLabel": {
+    "description": "Label for entering the amount of expense"
+  },
+  "@expenseDescriptionLabel": {
+    "description": "Label for entering the description of the expense"
+  },
+  "@expenseCategoryLabel": {
+    "description": "Label for selecting the category of the expense"
+  },
+  "@addExpenseButton": {
+    "description": "Button to add an expense"
+  },
+  "@expenseAddedMessage": {
+    "description": "Message shown when an expense is successfully added"
+  },
+  "@expenseDeletedMessage": {
+    "description": "Message shown when an expense is successfully deleted"
+  },
+  "@totalExpenseLabel": {
+    "description": "Label for displaying the total expense"
+  },
+  "menuHome": "Home",
+  "menuSettings": "Settings",
+  "menuIncome": "Income",
+  "menuExpense": "Expense",
+  "menuCategories": "Expense Categories",
+  "menuDefaultUsername": "User",
+  "invalidDataMessage": "Please enter valid data",
+  "noCategoriesAvailable": "No categories available",
+  "filterByDate": "No categories available",
+  "filterByCategory": "Filter by Category"
+
+}

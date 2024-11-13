@@ -1,0 +1,91 @@
+{
+  "settingsTitle": "Настройки",
+  "usernameLabel": "Имя пользователя",
+  "emailLabel": "Электронная почта",
+  "saveButton": "Сохранить",
+  "avatarUpload": "Загрузить аватар",
+  "languageLabel": "Выбор языка",
+  "snackbarSaveMessage": "Настройки сохранены",
+  "appTitle": "Финансовый трекер",
+  "balanceLabel": "Баланс",
+  "periodWeek": "Неделя",
+  "periodMonth": "Месяц",
+  "periodYear": "Год",
+  "typeAll": "Все",
+  "typeIncome": "Доход",
+  "typeExpense": "Расход",
+  "categoryAll": "Все категории",
+  "transactionIncome": "Доход",
+  "transactionExpense": "Расход",
+  "categoryPageTitle": "Категории расходов и доходов",
+  "newCategoryLabel": "Новая категория",
+  "addCategoryButton": "Добавить категорию",
+  "categoryAddedMessage": "Категория \"{category}\" добавлена",
+  "@categoryAddedMessage": {
+    "description": "Сообщение отображается, когда категория добавлена",
+    "placeholders": {
+      "category": {
+        "type": "String",
+        "example": "Продукты"
+      }
+    }
+  },
+  "categoryDeletedMessage": "Категория \"{category}\" удалена",
+  "@categoryDeletedMessage": {
+    "description": "Сообщение отображается, когда категория удалена",
+    "placeholders": {
+      "category": {
+        "type": "String",
+        "example": "Продукты"
+      }
+    }
+  },
+  "incomePageTitle": "Добавить доход",
+  "incomeAmountLabel": "Сумма дохода",
+  "incomeDescriptionLabel": "Описание дохода",
+  "addIncomeButton": "Добавить доход",
+  "incomeAddedMessage": "Доход успешно добавлен",
+  "totalIncomeLabel": "Total Income",
+  "expensePageTitle": "Добавить расход",
+  "expenseAmountLabel": "Сумма расхода",
+  "expenseDescriptionLabel": "Описание расхода",
+  "expenseCategoryLabel": "Категория",
+  "addExpenseButton": "Добавить расход",
+  "expenseAddedMessage": "Расход успешно добавлен",
+  "expenseDeletedMessage": "Расход успешно удален",
+  "totalExpenseLabel": "Общий расход",
+  "@expensePageTitle": {
+    "description": "Заголовок для страницы добавления расхода"
+  },
+  "@expenseAmountLabel": {
+    "description": "Поле для ввода суммы расхода"
+  },
+  "@expenseDescriptionLabel": {
+    "description": "Поле для ввода описания расхода"
+  },
+  "@expenseCategoryLabel": {
+    "description": "Метка для выбора категории расхода"
+  },
+  "@addExpenseButton": {
+    "description": "Кнопка для добавления расхода"
+  },
+  "@expenseAddedMessage": {
+    "description": "Сообщение, показываемое при успешном добавлении расхода"
+  },
+  "@expenseDeletedMessage": {
+    "description": "Сообщение, показываемое при успешном удалении расхода"
+  },
+  "@totalExpenseLabel": {
+    "description": "Метка для отображения общего расхода"
+  },
+  "menuHome": "Главная",
+  "menuSettings": "Настройки",
+  "menuIncome": "Доход",
+  "menuExpense": "Расход",
+  "menuCategories": "Категории расходов",
+  "menuDefaultUsername": "Пользователь",
+  "invalidDataMessage": "Введите правильный данные",
+  "noCategoriesAvailable": "No categories available",
+  "filterByDate": "Filter by Date",
+  "filterByCategory": "Категории"
+}
